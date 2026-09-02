@@ -15,14 +15,16 @@ Before using the aem-boilerplate, we recommand you to go through the documentati
 
 ## Installation
 
+This project uses [pnpm](https://pnpm.io/) as its package manager. `npm`/`yarn` installs are blocked on purpose (see the `preinstall` script in `package.json`).
+
 ```sh
-npm i
+pnpm install
 ```
 
 ## Linting
 
 ```sh
-npm run lint
+pnpm run lint
 ```
 
 ## Local development
