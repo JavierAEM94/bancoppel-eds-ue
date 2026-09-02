@@ -16,3 +16,6 @@ helix-importer-ui
 .env
 .local-drafts
 drafts
+certs
+cd
+.well-known

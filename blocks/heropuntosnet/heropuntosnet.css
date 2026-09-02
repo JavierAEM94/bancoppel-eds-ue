@@ -1,0 +1,11 @@
+main .heropuntosnet {
+  box-sizing: border-box;
+  border: 1px solid #9b9b9b;
+  border-radius: 16px;
+  padding: 24px;
+}
+
+.heropuntosnet-container .hero-wrapper {
+  max-width: unset;
+  padding: 0;
+}
